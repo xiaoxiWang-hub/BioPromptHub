@@ -1,0 +1,24 @@
+# Private configuration and local files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+__pycache__/
+.venv/
+.Rhistory
+.RData
+.Rproj.user/
+# Keep raw research data outside this repository
+data/raw/
+datasets/private/
+*.fastq
+*.fastq.gz
+*.bam
+*.cram
+# Generated local model runs; publish curated records explicitly
+evaluations/local/
