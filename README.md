@@ -15,7 +15,7 @@ BioPromptHub is an open collection of structured prompts for planning analyses, 
 
 ## Priority areas
 
-| Area | Directory | Initial release target |
+| Area | Directory | Drafts available |
 | --- | --- | --- |
 | Single-cell RNA-seq | [single-cell-rna-seq](prompts/single-cell-rna-seq/README.md) | 6 prompts |
 | Bulk RNA-seq | [bulk-rna-seq](prompts/bulk-rna-seq/README.md) | 6 prompts |
@@ -23,7 +23,7 @@ BioPromptHub is an open collection of structured prompts for planning analyses, 
 | Literature research | [literature-research](prompts/literature-research/README.md) | 4 prompts |
 | AI / Machine learning | [ai-machine-learning](prompts/ai-machine-learning/README.md) | 4 prompts |
 
-The Phase 2 target is 25 curated prompts. This initialization contains one untested starter example; it does not yet contain the full collection.
+The first collection contains 25 structured prompt drafts across these five areas. All are untested; model evaluation and independent domain review remain Phase 3 work.
 
 ## Repository layout
 

@@ -12,13 +12,15 @@
 
 ## Phase 2 — 核心提示词建设
 
-- [ ] Single-cell RNA-seq：6 条
-- [ ] Bulk RNA-seq：6 条
-- [ ] R / Python：5 条
-- [ ] Literature Research：4 条
-- [ ] AI / Machine Learning：4 条
+- [x] Single-cell RNA-seq：6 条草稿
+- [x] Bulk RNA-seq：6 条草稿
+- [x] R / Python：5 条草稿
+- [x] Literature Research：4 条草稿
+- [x] AI / Machine Learning：4 条草稿
 
 目标共 25 条，覆盖用户提出的 20–30 条范围。每条必须含输入说明、可复制 Prompt、使用示例、验收要点及局限。草稿可先合并，验证状态必须如实标注。
+
+2026-11-25：首批内容草稿齐备；这不代表质量目标已经通过测试。全部仍为 draft / untested，质量验收需在 Phase 3 记录模型测试与专业审核。参见[总目录](../prompts/README.md)。
 
 ## Phase 3 — 质量控制与测试
 

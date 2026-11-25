@@ -17,7 +17,7 @@
 
 ## 首批建设目标
 
-| 方向 | 入口 | 计划条数 |
+| 方向 | 入口 | 已收录草稿 |
 | --- | --- | --- |
 | Single-cell RNA-seq | [单细胞分析](prompts/single-cell-rna-seq/README.md) | 6 |
 | Bulk RNA-seq | [转录组分析](prompts/bulk-rna-seq/README.md) | 6 |
@@ -25,7 +25,7 @@
 | Literature Research | [文献研究](prompts/literature-research/README.md) | 4 |
 | AI / Machine Learning | [机器学习](prompts/ai-machine-learning/README.md) | 4 |
 
-Phase 2 目标为 25 条高质量提示词。当前是 Phase 1 初始化版本，包含 1 条未测试的入门示例，尚未完成首批内容建设。
+首批 25 条结构化提示词草稿已收录，覆盖以上五个领域。全部标记为 draft / untested；模型测试与独立专业审核属于 Phase 3，尚未完成。
 
 ## 目录说明
 

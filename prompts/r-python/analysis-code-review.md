@@ -75,4 +75,4 @@ Untested. 尚未进行模型测试或专业审核。
 
 ## References / 参考资料
 
-No external scientific claims are required for this starter example. Check the documentation for the installed pandas version before applying generated changes.
+- [pandas merge 官方文档](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.merge.html)（访问日期：2026-11-25）。实际应用时核对安装版本的参数。

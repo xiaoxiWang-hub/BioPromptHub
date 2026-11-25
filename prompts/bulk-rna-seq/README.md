@@ -1,5 +1,12 @@
 # Bulk RNA-seq
 
-Phase 2 backlog (target: 6 prompts): study design; count-matrix validation; exploratory QC; differential expression; enrichment interpretation; reproducible reporting.
+已收录 6 条草稿，全部尚未进行模型测试或专业审核。
 
-当前无已收录 Prompt。每条分析提示词应明确原始计数与标准化表达的区别、样本设计和比较方向。
+- [BPH-BR-001：Bulk RNA-seq 实验设计与比较定义](experimental-design.md)
+- [BPH-BR-002：计数矩阵导入与样本对齐](count-matrix-validation.md)
+- [BPH-BR-003：Bulk RNA-seq 探索性质量评估](exploratory-qc.md)
+- [BPH-BR-004：DESeq2 差异分析与显式 contrast](deseq2-explicit-contrast.md)
+- [BPH-BR-005：富集分析与背景基因集核查](enrichment-with-background.md)
+- [BPH-BR-006：可复现转录组结果报告](reproducible-results-report.md)
+
+[返回总目录](../README.md) · [质量规范](../../docs/QUALITY.md)
